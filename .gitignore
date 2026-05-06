@@ -9,7 +9,7 @@ dist/
 build/
 
 # Data and output
-output/
+# output/              # 已上传示例结果
 processed_data/
 微生物功能基因测序/
 
